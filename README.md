@@ -1,2 +1,12 @@
-# PhoenixBot
-PhenoixBot is an AI-driven healthcare assistant that leverages machine learning and natural language processing to analyze symptoms, provide preliminary health insights, and assist users with personalized recommendations. It aims to make healthcare guidance more accessible, efficient, and user-friendly.
+# AI Chat
+
+To build and run the project:
+
+```
+git clone https://github.com/alejandro-du/vaadin-ai-chat.git
+cd vaadin-ai-chat
+mvn package
+java -jar target/vaadin-chat-1.0-SNAPSHOT.jar
+```
+
+Go to http://localhost:8080
